@@ -1,1 +1,1 @@
-# full-stack-mean
+# Mean Stack gradual development
